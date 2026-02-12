@@ -1,2 +1,0 @@
-test|a2a283b77e2c27d2|698b76ae|test@test.pt|10/02/2026 18:19:26|Nunca
-demo_user|890e974b26d8929f|698e0d1a|demo@escola.pt|12/02/2026 17:25:46|12/02/2026 17:25:58
